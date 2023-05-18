@@ -9,3 +9,7 @@ Flutter is an open source frame work by google
 ## some info
 
 Mentorship
+
+## Get organised
+
+Open index.html in your browser.
